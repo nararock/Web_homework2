@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(238, 221, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    border: thick double rgb(56, 8, 8);
+}
+
+.foot {
+    font-size: smaller;
+}
+
+a {
+    font-size: small;
+    font-style: italic;
+    color: rgb(45, 10, 78);
+}
+
+table {
+    border: 1px dotted rgb(26, 1, 1);
+}
